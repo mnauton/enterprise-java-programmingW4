@@ -7,7 +7,7 @@ public class RandomAccessDemo {
 
 	public static void main(String[] args) {
 		try {
-			RandomAccessFile rfile = new RandomAccessFile("/test.txt", "rw");
+			RandomAccessFile rfile = new RandomAccessFile("/home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//testRA.txt", "rw");
 
 			// write data to position 500
 			String data = "Hello random access file, message from CT5168";

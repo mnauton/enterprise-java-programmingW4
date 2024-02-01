@@ -18,8 +18,8 @@ public class CopyLines {
         PrintWriter outputStream = null;
 
         try {
-            inputStream = new BufferedReader(new FileReader("dummy.txt"));
-            outputStream = new PrintWriter(new FileWriter("characterDummy.txt"));
+            inputStream = new BufferedReader(new FileReader("/home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//dummy.txt"));
+            outputStream = new PrintWriter(new FileWriter("/home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//characterLineDummy.txt"));
 
             String l;
             while ((l = inputStream.readLine()) != null) {

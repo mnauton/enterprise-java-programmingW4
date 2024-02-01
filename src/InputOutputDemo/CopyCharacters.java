@@ -11,8 +11,8 @@ public class CopyCharacters {
         FileWriter outputStream = null;
 
         try {
-            inputStream = new FileReader("dummy.txt");
-            outputStream = new FileWriter("characterDummy.txt");
+            inputStream = new FileReader("/home/margaux/java-workspace/EnterpriseJavaProgrammingW4/src/InputOutputDemo/dummy.txt");
+            outputStream = new FileWriter("/home/margaux/java-workspace/EnterpriseJavaProgrammingW4/src/InputOutputDemo/characterDummy.txt");
 
             int c;
             while ((c = inputStream.read()) != -1) {

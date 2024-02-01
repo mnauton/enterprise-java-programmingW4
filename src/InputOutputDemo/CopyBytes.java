@@ -11,8 +11,8 @@ public class CopyBytes {
         FileOutputStream out = null;
 
         try {
-            in = new FileInputStream("dummy.txt");
-            out = new FileOutputStream("writeDummy.txt");
+            in = new FileInputStream("//home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//dummy.txt");
+            out = new FileOutputStream("//home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//writeDummy.txt");
             int c;
 
             while ((c = in.read()) != -1) {

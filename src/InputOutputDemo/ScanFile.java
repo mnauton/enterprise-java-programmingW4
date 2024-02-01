@@ -9,8 +9,8 @@ public class ScanFile {
         Scanner s = null;
 
         try {
-            s = new Scanner(new BufferedReader(new FileReader("dummy.txt")));
-
+            s = new Scanner(new BufferedReader(new FileReader("/home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//dummy.txt")));
+            s.useDelimiter("a+");
             while (s.hasNext()) {
                 System.out.println(s.next());
             }

@@ -16,7 +16,7 @@ public class TokenizerDemo {
 		// TODO Auto-generated method stub
 
 		try {
-			Reader fReader = new FileReader("/test.txt");
+			Reader fReader = new FileReader("/home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//test.txt");
 			List<Object> defTokens = streamTokenizerWithDefaultConfiguration(fReader);
 			for (Object o : defTokens) {
 				System.out.println(o.getClass().getSimpleName() + " = " + o.toString());
@@ -26,7 +26,7 @@ public class TokenizerDemo {
 		System.out.println();
 
 		try {
-			Reader fReader = new FileReader("/Users/eir/Desktop/test.txt");
+			Reader fReader = new FileReader("//home//margaux//java-workspace//EnterpriseJavaProgrammingW4//src//InputOutputDemo//test.txt");
 			List<Object> cusTokens = streamTokenizerWithCustomConfiguration(fReader);
 			for (Object o : cusTokens) {
 				System.out.println(o.getClass().getSimpleName() + " = " + o.toString());

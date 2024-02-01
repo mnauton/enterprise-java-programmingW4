@@ -1,0 +1,1 @@
+-Hello random access file, message from CT5168%This is the end pointer for this file

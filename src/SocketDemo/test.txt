@@ -1,0 +1,1130 @@
+HTTP/1.1 200 OK
+Date: Thu, 01 Feb 2024 11:54:43 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 53759
+Connection: close
+Set-Cookie: AWSALB=nahUoOD2UrBy2bRwvE/l9VIY/t6io6euhPDYid8ld968xapnXnThh404kjV2XJufyqWhfdS+jOgZGtEbVQuaLfCzHZsfEkPTR3w799OxAIojBgEXl75zyYZoYBre; Expires=Thu, 08 Feb 2024 11:54:43 GMT; Path=/
+Set-Cookie: AWSALBCORS=nahUoOD2UrBy2bRwvE/l9VIY/t6io6euhPDYid8ld968xapnXnThh404kjV2XJufyqWhfdS+jOgZGtEbVQuaLfCzHZsfEkPTR3w799OxAIojBgEXl75zyYZoYBre; Expires=Thu, 08 Feb 2024 11:54:43 GMT; Path=/; SameSite=None
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Wed, 31 Jan 2024 10:21:27 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=172800
+Expires: Sat, 03 Feb 2024 11:54:43 GMT
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Ollscoil na Gaillimhe - Ollscoil na Gaillimhe</title>
+<!--pre-body-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!--DC.author-->
+<!--DC.copyright-->
+<!--DC.keywords-->
+<!--DC.description-->
+<link rel="icon" href="/media/nuigalwayie/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/media/nuigalwayie/favicon.ico" type="image/x-icon" /><!-- favicon-->
+<style type="text/css">
+@import url(//www.universityofgalway.ie/cdn/css/nuig.css);
+@import url(//www.universityofgalway.ie/cdn/css/mammoth-style.css);
+@import url(//www.universityofgalway.ie/cdn/css/t4-hacks-2022.css);
+#header #logo a { display: block; width: 200px; height: 62px; background: white url(//www.universityofgalway.ie/images/logo-irish.png) center no-repeat; background-size: 194px 56px; transition: none; }
+</style>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/share/js/compiled.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/share/js/jquery/plugins/jquery.cycle2.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/share/js/jquery/plugins/jquery.cycle2.caption2.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/share/js/jquery/plugins/jquery.cycle2.swipe.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/js/dataTables.tableTools.min.js"></script>
+<script type="text/javascript" src="/media/nuigalwayie/styleassets/js/table-sorter.min.js"></script> <!--table sort-->
+<script type="text/javascript" src="/media/nuigalwayie/styleassets/js/quick-search.js"></script> <!--quick search-->
+<link rel="stylesheet" type="text/css" media="screen" href="/media/nuigalwayie/styleassets/css/jquery.fancybox-1.3.4.css" title=""/> <!--Fancybox--> 
+<script type="text/javascript" src="/media/nuigalwayie/styleassets/js/jquery.fancybox-1.3.4.pack.js"></script> <!--jquery.fancybox-1.3.4.pack-->
+<link rel="stylesheet" type="text/css" media="screen" href="/media/nuigalwayie/styleassets/css/jquery.jcarousel.css" title=""/> <!--jCarousel-->
+<link rel="stylesheet" type="text/css" media="screen" href="/media/nuigalwayie/styleassets/css/skin.css" title=""/> <!--Gallery skin-->
+<script type="text/javascript" src="/media/nuigalwayie/styleassets/js/jquery.jcarousel.pack.js"></script> <!--jCarousel pack -->
+<script src="//ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js" type="text/javascript" djConfig="parseOnLoad:true"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/js/t4-hacks-2022.js"></script>
+<script type="text/javascript" src="//www.universityofgalway.ie/cdn/js/local-2022.js"></script>
+
+<!-- Google Tag Manager -->
+<script>
+if (consentAnalytics) {
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MHWNFC9');
+}
+</script>
+<!-- End Google Tag Manager -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+</head>
+<!--end-pre-body--> <!--header (pre body)-->
+<meta name="keywords" content="" /><!--DC.Abstract-->
+<meta name="description" content="" /><!--DC.Author-->
+</head>
+<body class="default  channel_id_8 section_id_23736 homepage fullWidth">
+<!--gaeilge-post-body-pre-breadcrumb-->
+<div id="site">
+	<div id="siteWrapper">
+
+		<div id="header">
+			<div id="headerWrapper">
+
+				<div id="logo">
+					<div id="logoWrapper">
+						<a href="//www.ollscoilnagaillimhe.ie/?ref=logo" title="Téigh go leathanach baile Ollscoil na Gaillimhe"><span>Ollscoil na Gaillimhe</span></a>
+					</div>
+				</div>
+
+				<div id="search">
+					<div id="searchWrapper">
+						
+<div class="searchbox">
+	<div class="searchboxWrapper">
+		<form method="get" onSubmit="javascript:nuigSearch();">
+			<input class="text" type="text" name="q" title="
+Focail cuardaigh" placeholder="CUARDAIGH"/>
+			<button class="search" aria-label="Cuardaigh an suiomh seo" type="submit" name="submit"><span>Cuardaigh</span></button>
+		</form>
+	</div>
+</div>
+
+					</div>
+				</div>
+
+				<div class="bottom"><span></span></div>
+
+			</div>
+		</div>
+
+		<div id="revealNavigationButton">
+			<div id="darkOverlay"></div>
+			<a class="reveal" href="#primaryNavigation"><span>Roghchlár</span></a>
+		</div>
+
+		<div id="navigation">
+			<div id="navigationWrapper">
+	
+				<div id="primaryNavigation">
+	<div id="primaryNavigationWrapper">
+		<div class="content">
+			<ul>
+				<li class="first has_child node_id_1033">
+					<a href="//www.ollscoilnagaillimhe.ie/cursai/" class="first has_child node_id_1033"><span>Cúrsaí</span></a>
+					<div class="dropdown for_node_id_1033">
+
+	<div class="menu">
+		
+<ul><li><a href="https://www.universityofgalway.ie/courses/undergraduate-courses/">Cúrsaí Fochéime</a></li><li><a href="https://www.universityofgalway.ie/courses/taught-postgraduate-courses/">Cúrsaí Iarchéime Múinte</a></li><li><a href="http://www.nuigalway.ie/courses/research-postgraduate-programmes/">Cúrsaí Iarchéime Taighde</a></li><li><a href="https://www.ollscoilnagaillimhe.ie/foghlaim-ar-line/">Foghlaim ar Líne</a></li><li><a href="http://www.nuigalway.ie/courses/how-to-apply/">Conas Iarratas a Dhéanamh</a></li><li><a href="http://www.nuigalway.ie/courses/fees-and-funding/fees.html">Táillí agus Maoiniú</a></li><li><a href="http://www.nuigalway.ie/courses/modes-of-study/">Modhanna Staidéir</a></li><li><a href="http://www.nuigalway.ie/courses/open-days/">Laethanta Oscailte</a></li><li><a href="/scholarships/">Scoláireachtaí</a></li><li><a href="/oegaillimh/cursai/cpd/">Forbairt Ghairmiúil Leanúnach & Cúrsaí Micridhintiúr</a></li><li><a href="/oegaillimh/cursai/pairtaimseartha/">Cúrsaí Gairmiúla, Páirtaimseartha agus Oíche</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-1.jpg" alt="Tree Aley"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Cúrsaí</h4>
+			<p>
+				Tá roghnú cúrsa léinn ar cheann de na cinntí is tábhachtaí dá ndéanfaidh tú choíche! Féach na cúrsaí atá againn anseo agus an méid a deir mic léinn agus léachtóirí faoi na cúrsaí sin a bhfuil spéis agatsa iontu.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/cursai/"><strong>Féach na cúrsaí atá againn</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_1034">
+					<a href="//www.ollscoilnagaillimhe.ie/saol-na-hollscoile/" class="middle has_child node_id_1034"><span>Saol na hOllscoile</span></a>
+					<div class="dropdown for_node_id_1034">
+
+	<div class="menu">
+		
+<ul><li><a href="https://www.ollscoilnagaillimhe.ie/suiomh-poibli/an-oifig-loistin/">Lóistín</a></li><li><a href="http://www.nuigalway.ie/student-life/campus-activities/">Gníomhaíochtaí ar an gcampas</a></li><li><a href="http://www.nuigalway.ie/student-life/student-support/">Tacaíocht do Mhic Léinn</a></li><li><a href="http://www.nuigalway.ie/student-life/study-abroad/">Staidéar thar Lear </a></li><li><a href="http://www.nuigalway.ie/international-students/">Mic Léinn Idirnáisiúnta  </a></li><li><a href="https://www.ollscoilnagaillimhe.ie/seirbhisi-do-mhic-leinn/ionad-rochtana/lanfhasta/">Mic Léinn Lánfhásta </a></li><li><a href="/ollscoilnagaillimhe/seirbhisi-do-mhic-leinn/ionad-rochtana/seirbhis-tacaiochta-michumais/">Mic Léinn faoi Mhíchumas</a></li><li><a href="/sap/">Clár Ambasadóir na Mac Léinn</a></li><li><a href="/forparents/">Do Thuismitheoirí agus Caomhnóirí</a></li><li><a href="https://www.ollscoilnagaillimhe.ie/seirbhisi-do-mhic-leinn/ionad-rochtana/clair-rochtana/">Mic Léinn Rochtana </a></li><li><a href="/oegaillimh/saol-na-hollscoile/faoi-gaillimh/">Eolas faoi Ghaillimh</a></li><li><a href="/oegaillimh/saol-na-hollscoile/gniomhaiochtai-campas/">Gníomhaíochtaí ar an gcampas</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-2.jpg" alt="Bridge"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Saol na hOllscoile</h4>
+			<p>
+				Chuile bhliain roghnaíonn os cionn 4,000 duine Ollscoil na Gaillimhe mar chéad rogha. Faigh amach faoin saol in Ollscoil na Gaillimhe anseo.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/saol-na-hollscoile/"><strong>Léigh faoin saol in Ollscoil na Gaillimhe</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_23">
+					<a href="//www.ollscoilnagaillimhe.ie/eolas-fuinn/" class="middle has_child node_id_23"><span>Eolas Fúinn</span></a>
+					<div class="dropdown for_node_id_23">
+
+	<div class="menu">
+		
+<ul><li><a href="http://www.nuigalway.ie/about-us/news-and-events/">Nuacht & Imeachtaí</a></li><li><a href="/strategy2025/">Straitéis 2020-2025</a></li><li><a href="http://www.nuigalway.ie/about-us/jobs/">Poist san Ollscoil</a></li><li><a href="/ollscoilnagaillimhe/suiomh-poibli/oifig-preasa-agus-faisneise/">Oifig Preasa agus Faisnéise</a></li><li><a href="http://www.nuigalway.ie/about-us/contact-us/">Déan teagmháil linn</a></li><li><a href="/about-us/university-management/">Ceannaireacht na hOllscoile</a></li><li><a href="/sustainability/">Straitéis Inbhuanaitheachta</a></li><li><a href="/about-us/online-shop/">Siopa Bronntanas</a></li><li><a href="/about-us/open-day/">Laethanta Oscailte</a></li><li><a href="/medtech/">Teicneolaíocht Leighis</a></li><li><a href="/journey/">Aistear</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-3.jpg" alt="Lake"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Eolas faoi Ollscoil na Gaillimhe</h4>
+			<p>
+				Bí ar an eolas faoin Ollscoil seo agus na fáthanna a bhfuil sí chomh speisialta sin – an stair thar a bheith spéisiúil a bhaineann leis an Ollscoil agus an nuacht is déanaí agus na hócáidí atá ar na bacáin.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/eolas-fuinn/"><strong>Eolas Fúinn</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_1118">
+					<a href="//www.ollscoilnagaillimhe.ie/colaisti-scoileanna/" class="middle has_child node_id_1118"><span>Coláistí &amp;&nbsp;Scoileanna</span></a>
+					<div class="dropdown for_node_id_1118">
+
+	<div class="menu">
+		
+<ul><li><a href="/oegaillimh/tireolaiochta-seandalaiochta/">Scoil na Tíreolaíochta, na Seandálaíochta agus Léann Éireannaigh</a></li><li><a href="https://www.universityofgalway.ie/business-public-policy-law/">Coláiste an Ghnó, an Bheartais Phoiblí & an Dlí</a></li><li><a href="https://www.universityofgalway.ie/medicine-nursing-and-health-sciences/">Coláiste an Leighis, an Altranais & na nEolaíochtaí Sláinte</a></li><li><a href="https://www.universityofgalway.ie/science-engineering/">Coláiste na hEolaíochta agus na hInnealtóireachta</a></li><li><a href="/oegaillimh/teangacha-litriochtai-cultur/">Scoil na dTeangacha, na Litríochtaí agus na gCultúr</a></li><li><a href="https://www.nuigalway.ie/gaeilge/">Roinn na Gaeilge</a></li><li><a href="http://www.nuigalway.ie/acadamh/">An tAcadamh</a></li><li><a href="/oegaillimh/stair/">Stair</a></li><li><a href="/foghlaim-daosaigh/">Foghlaim agus Forbairt Ghairmiúil d’Aosaigh</a></li><li><a href="https://www.universityofgalway.ie/colleges-and-schools/arts-social-sciences-and-celtic-studies/international-students/">Idirnáisiúnta</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-4.jpg" alt="Building"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Coláistí &amp;&nbsp;Scoileanna</h4>
+			<p>
+				Tá aitheantas idirnáisiúnta bainte amach ag Ollscoil na Gaillimhe mar ollscoil atá á treorú ag an taighde agus rún daingean aici teagasc den chéad scoth a chur ar fáil i réimsí éagsúla saineolais.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/colaisti-scoileanna/"><strong>Coláistí &amp;&nbsp;Scoileanna</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_1039">
+					<a href="//www.ollscoilnagaillimhe.ie/taighde/" class="middle has_child node_id_1039"><span>Taighde</span></a>
+					<div class="dropdown for_node_id_1039">
+
+	<div class="menu">
+		
+<ul><li><a href="http://www.nuigalway.ie/our-research/listings/">Réimsí Taighde</a></li><li><a href="http://www.nuigalway.ie/our-research/people/">Daoine</a></li><li><a href="http://www.nuigalway.ie/our-research/facilities/">Saoráidí</a></li><li><a href="/research-office/">An Oifig Taighde</a></li><li><a href="/innovation/">An Oifig Nuálaíochta</a></li><li><a href="/rdc/">An tIonad Forbartha Taighdeoirí</a></li><li><a href="/researchcommunityportal/">Tairseach an Phobail Taighde</a></li><li><a href="/our-research/researchcentresinstitutesandunits/">Ionaid, institiúidí agus aonaid taighde</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-5.jpg" alt="Buildings"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Nithe Fónta á gCruthú as Smaointe Úra</h4>
+			<p>
+				Tugann ár dtaighdeoirí aghaidh ar chuid de na dúshláin is práinní san 21ú Céad. 
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/taighde/"><strong>Léargas</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_1040">
+					<a href="//www.ollscoilnagaillimhe.ie/gno-tionscal/" class="middle has_child node_id_1040"><span>Gnó &amp; Tionscal</span></a>
+					<div class="dropdown for_node_id_1040">
+
+	<div class="menu">
+		
+<ul><li><a href="/innovation/">An Oifig Nuálaíochta</a></li><li><a href="//www.nuigalway.ie/career-development-centre/">An tIonad Forbartha Gairmeacha</a></li><li><a href="/innovation/business-innovation-centre/">An tIonad Nuálaíochta Gnó</a></li><li><a href="/events/">An tIonad Comhdhálacha agus Ócáidaí</a></li></ul>
+      
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-6.jpg" alt="Building"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Tacaíocht do Thaighde Úrnua in Ollscoil na Gaillimhe</h4>
+			<p>
+				Déanaimid deiseanna tráchtála a chuardach agus a chothú don phobal taighde in Ollscoil na Gaillimhe, mar aon le comhpháirtíocht tionsclaíochta a chothú.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/gno-tionscal/"><strong>Léargas</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="middle has_child node_id_1041">
+					<a href="//www.ollscoilnagaillimhe.ie/alumni-cairde/" class="middle has_child node_id_1041"><span>Alumni, Cairde &amp;&nbsp;Lucht Tacaíochta</span></a>
+					<div class="dropdown for_node_id_1041">
+
+	<div class="menu">
+		
+
+<ul><li><a href="http://www.nuigalway.ie/alumni-friends/news-and-events/">Nuacht agus Imeachtaí </a></li><li><a href="http://www.nuigalway.ie/alumni-friends/alumni-services/">Seirbhísí Alumni</a></li><li><a href="/alumni-friends/coiscoiribe.html">Cois Coiribe</a></li><li><a href="/alumni-friends/alumniawards/">Gradaim Alumni</a></li><li><a href="http://www.nuigalway.ie/alumni-friends/reunion/">Teacht le Chéile</a></li><li><a href="/alumni-friends/get-in-touch/">Lean muid ar ár gCainéil Shóisialta</a></li><li><a href="/alumni-friends/updateyourdetails/">Tabhair do chuid sonraí cothrom le dáta</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-7.jpg" alt="Crowd"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Alumni, Cairde &amp; Lucht Tacaíochta</h4>
+			<p>
+				Tá os cionn 90,000 céimí de chuid Ollscoil na Gaillimhe ann ar fud an domhain. Déan nasc linn agus beidh teacht agat ar an gcomhphobal sin ar líne.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/alumni-cairde/"><strong>Léargas</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+				<li class="last has_child node_id_1042">
+					<a href="//www.ollscoilnagaillimhe.ie/rannphairtiocht-pobail/" class="last has_child node_id_1042"><span>Rannpháirtíocht Pobail</span></a>
+					<div class="dropdown for_node_id_1042">
+
+	<div class="menu">
+		
+<ul><li><a href="/community-engagement/about-engagement/">Eolas faoi Rannpháirtíocht</a></li><li><a href="http://www.nuigalway.ie/community-engagement/learning-with-community/">Ag Foghlaim leis an bPobal</a></li><li><a href="/community-engagement/community-partnerships/">Comhpháirtíochtaí Pobail</a></li><li><a href="http://www.nuigalway.ie/community-engagement/outreach/">Gníomhaíochtaí For-rochtana</a></li><li><a href="/community-engagement/researchwithcommunities/">Taighde in éineacht le Pobail</a></li><li><a href="/community-engagement/universityofsanctuary/">Ollscoil Tearmainn</a></li></ul>
+
+	</div>
+
+	<div class="info">
+		<div class="thumb">
+			<span class="thumb_wrap"><span class="thumb_wrap_inner"><img src="//www.universityofgalway.ie/cdn/images/dropdown-thumb-8.jpg" alt="Building"/></span></span>
+		</div>
+		<div class="text">
+			<h4 class="lcase">Rannpháirtíocht sa Phobal</h4>
+			<p>
+				In Ollscoil na Gaillimhe, creidimid go n-éireoidh níos fearr leat más féidir leat an méid a fhoghlaimíonn tú a chur i bhfeidhm i do shaol féin. Is mar gheall air sin go bhfuil béim mhór ar shocrúcháin oibre nó ar thionscadail phobail i gcuid mhór dár gcúrsaí.
+			</p>
+			<p>
+				<a href="//www.ollscoilnagaillimhe.ie/rannphairtiocht-pobail/"><strong>Fíorfhoghlaim</strong></a>
+			</p>
+		</div>
+		<div class="bottom"></div>
+	</div>
+
+</div>
+
+				</li>
+			</ul>
+			<div class="bottom"><span></span></div>
+		</div>
+	</div>
+</div>
+
+                <div id="globalNavigation">
+                    <div id="globalNavigationWrapper">
+                        <h3><span>Gateway Pages</span></h3>
+                        <ul>
+                            <li class='first'>
+                                <a href="//www.ollscoilnagaillimhe.ie/mic-leinn-nua/" class="first"><span>Mic Léinn Nua</span></a>
+                            </li>
+                            <li class='middle'>
+                                <a href="//www.ollscoilnagaillimhe.ie/mic-leinn-reatha/" class="middle"><span>Mic L&eacute;inn Reatha</span></a>
+                            </li>
+                            <li class='middle'>
+                                <a href="//www.ollscoilnagaillimhe.ie/cuairteoiri/" class="middle"><span>Cuairteoir&iacute;</span></a>
+                            </li>
+                            <li class='last'>
+                                <a href="//www.ollscoilnagaillimhe.ie/an-ghaeilge-san-ollscoil/" class="middle"><span>An Ghaeilge</span></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+				<div id="utilityNavigation" role="navigation" aria-label="quick links">
+					<div id="utilityNavigationWrapper">
+						<h3>Quicklinks</h3>
+						<ul>
+                                                        <li class="library">
+								<a id="translateLink" href="//www.universityofgalway.ie/">universityofgalway.ie</a>
+                                                        </li>
+							<li class="library">
+								<a href="//library.universityofgalway.ie/">An Leabharlann</a>
+							</li>
+							<li class="accessibility">
+								<a href="#"><span class="smaller">A</span><span class="bigger">A</span></a>
+								<div class="dropdown">
+									<ul>
+										<li><a href="#" class="normal" onclick="$('body').removeClass('larger contrast'); return false;"><span class="letter">A</span>Gnáthmhéid</a></li>
+										<li><a href="#" class="larger" onclick="$('body').removeClass('contrast').addClass('larger'); return false;"><span class="letter">A</span>Níos mó</a></li>
+										<li class="last"><a href="#" class="contrast" onclick="$('body').removeClass('larger').addClass('contrast'); return false;"><span class="letter">A</span>Ardchodarsnacht</a></li>
+									</ul>
+								</div>
+							</li>
+							<li class="quick_links"><a href="#">Mic Léinn &amp; an Fhoireann</a>
+								<div class="dropdown">
+									<div class="columnOne">
+										<h4>Mic Léinn</h4>
+										<ul>
+											<li><a href="//nuigalway.blackboard.com/">Blackboard</a></li>
+											<li><a href="https://outlook.office.com/owa/">Office 365 (RPHOST)</a></li>
+											<li><a href="//www.universityofgalway.ie/student-contact-centre/">An tIonad Teagmhála do Mhic Léinn</a></li>
+											<li><a href="//www.universityofgalway.ie/courses/fees-and-funding/">Táillí agus Deontais</a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/oifig-na-scruduithe/">Scrúduithe</a></li>
+											<li><a href="//www.universityofgalway.ie/exams/timetable.html">Amchláir</a></li>
+											<li><a href="//library.universityofgalway.ie/anleabharlann/">An Leabharlann</a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/seirbhisi-do-mhic-leinn/">Seirbhísí do mhic léinn</a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/foirgnimh/pairceail-treoracha/">Páirceáil</a></li>
+											<li><a href="//www.universityofgalway.ie/cki/">Mic Léinn i mbun Obair Foirne</a></li>
+											<li><a href="//www.su.nuigalway.ie/">Comhaltas na Mac Léinn</a></li>
+										</ul>
+									</div>
+									<div class="columnTwo">
+										<h4>An Fhoireann</h4>
+										<ul>
+											<li><a href="https://outlook.office.com/">Office 365 (RPHOST)</a></li>
+											<li><a href="https://nuigalwayie.sharepoint.com/sites/CampusDirectory">Eolaire Campais</a></li>
+											<li><a href="https://agresso.nuigalway.ie/">Agresso</a></li>
+											<li><a href="//www.universityofgalway.ie/academic-records/">Taifid Acadúla</a></li>
+											<li><a href="//ollscoilnagaillimhe.ie/ollscoilnagaillimhe/suiomh-poibli/acmhainni-daonna/">Acmhainní Daonna</a></li>
+											<li><a href="//www.universityofgalway.ie/academic-administration/academic-term-dates/">Dátaí Na Dtéarmaí Acadúla</a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/an-tionad-sarchaighdeain-foghlama-agus-teagaisc/">CELT</a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/reitigh-agus-seirbhisi-faisneise/">Réitigh agus Seirbhísí Faisnéise (Seirbhísí IT) </a></li>
+											<li><a href="//www.ollscoilnagaillimhe.ie/suiomh-poibli/foirgnimh/">Foirgnimh & Eastáit</a></li>
+											<li><a href="//servicedesk.nuigalway.ie/">An Deasc Freastail</a></li>
+										</ul>
+									</div>
+									<div class="rowBottom">
+										<ul>
+											<li><a href="//www.ollscoilnagaillimhe.ie/mic-leinn-reatha/">Mic Léinn</a></li>
+											<li><a href="//www.universityofgalway.ie/staff/">An Fhoireann</a></li>
+											<li class="last"><a href="//www.ollscoilnagaillimhe.ie/colaisti-scoileanna/">Coláistí & Scoileanna</a></li>
+										</ul>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+		<div id="content" role="main">
+			<div id="contentWrapper">
+				<!-- beginning of: node_id_1034 (templates/node/page/default.html) -->
+<div id="node_id_1034" class="node node_group-page ">
+
+
+
+
+
+
+<div class="node-page-default">
+<div class="page fibonacci-2-1 ">
+
+	<div class="pageHeader">
+	<div class="pageHeaderWrapper">
+		<div class="content">
+			<div class="breadcrumb number_of_items_1">
+<!--end-post-body-pre-breadcrumb--> 
+		  <!-- pre breadcrumb -->
+<script>var newAddr=""; if (newAddr != "") { $('#translateLink').text('Leagan Béarla');$('#translateLink').attr('href', ''+newAddr);}</script> <!-- change language toggle -->
+<a href="/ollscoilnagaillimhe/">Ollscoil na Gaillimhe</a>  <!-- Breadcrumb -->
+</div>
+
+			<h1 class="pageTitle"><span>Ollscoil na Gaillimhe</span></h1>
+			<div class="description">
+				<!-- navigation object : Meta DC.Description -->
+			</div>
+<!--gaeilge-post-breadcrumb-pre-leftnav-->
+		</div>
+	</div>
+</div>
+	<div id="pageWrapper">
+
+		<div id="pageSide">
+			<div id="pageSideWrapper">
+
+				<div id="secondaryNavigation" role="navigation" aria-label="subsite">
+					<div id="secondaryNavigationWrapper">
+						<div id="rootMenuItem">
+							<a href="#" data-original-text="Leathnu" data-close-text="Laghdu"><span>Leathn&uacute;</span></a>
+						</div>
+<!--end-post-breadcrumb-pre-leftnav--> <!--header (post breadcrumb)-->
+<ul id="side-nav"><li><a href="https://www.ollscoilnagaillimhe.ie/cursai/">Cúrsaí</a></li><li><a href="/ollscoilnagaillimhe/seirbhisi-do-mhic-leinn/">Seirbhísí do Mhic Léinn</a></li><li><a href="/ollscoilnagaillimhe/cumainn-macleinn/">Cumainn na Mac Léinn</a></li><li><a href="/ollscoilnagaillimhe/meabhranai/">Oifig an Uachtaráin Ionaid & Meabhránaí</a></li><li><a href="/ollscoilnagaillimhe/laithrean-foirne/">Láithreán na Foirne</a></li><li><a href="/ollscoilnagaillimhe/ionad-forbartha-gairmeacha/">An tIonad Forbartha Gairmeacha</a></li></ul> <!-- menu - level 3 -->
+<!--post-leftnav-->
+					</div>
+				</div>
+				
+				<div id="pageSideContent" role="complementary">
+					<div id="pageSideContentWrapper">
+						
+					</div>
+				</div>
+								
+			</div>
+		</div>
+
+		<div id="pageContent">
+			<div id="pageContentWrapper">
+<!--end-post-leftnav--> <!--header (post menu)-->
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	var numSlides = $('div.imageGallery.combined .imageGalleryWrapper div.item').length;
+	if (numSlides == 1) $('div.imageGallery.combined .imageGalleryWrapper .controls').hide();
+
+	var imageGallery = $('div.imageGallery.combined .imageGalleryWrapper');
+	var galleryOptions = {
+		speed: 500,
+		timeout: 5000,
+		allowWrap: true,
+		fx: 'scrollVert',
+		slides: 'a.item',
+		prev: '> div.controls a.prev',
+		next: '> div.controls a.next',
+		swipe: true,
+		pager: '> div.controls div.pagination',
+		pagerActiveClass: 'active',
+		pagerTemplate: '<a aria-label="Banner Link"><span>&bull;</span></a>',
+		caption: '.imageGallery.combined .caption',
+		pauseOnHover: true,
+		captionPlugin: 'caption2',
+		tmplRegex: '\\[\\[((.)?.*?)\\]\\]',
+		captionTemplate: '<a href="[[url]]" class="captionWrapper" aria-label="Link to a page about [[title]]"><h2>[[title]]</h2><div class="description">[[description]]</div><div class="content">[[content]]</div></a>',
+		log: false
+	};
+
+	$.fn.cycle.transitions.scrollVert = {
+	    before: function( opts, curr, next, fwd ) {
+	        opts.API.stackSlides( opts, curr, next, fwd );
+	        var height = opts.container.css('overflow', 'hidden').height();
+	        opts.cssBefore = { top: fwd ? -height : height, left: 0, opacity: 1, display: 'block', visibility: 'visible' };
+	        opts.animIn = { top: 0 };
+	        opts.animOut = { top: fwd ? height : -height };
+	    }
+	};
+	
+	function reinit_cycle() {
+		if (isDesktop()) {
+			if(imageGallery.data('cycle.opts') !== undefined && imageGallery.data('cycle.opts')['isDesktop'] == true) {
+				return;
+			} else {
+				galleryOptions.isDesktop = true;
+				galleryOptions.fx = 'scrollVert';
+				//galleryOptions.captionFxSel = undefined;
+				imageGallery.find('> div.controls .prev > span').html('&#xf500;');
+				imageGallery.find('> div.controls .next > span').html('&#xf501;');
+			}
+		}
+		else {
+			if (imageGallery.data('cycle.opts') !== undefined && imageGallery.data('cycle.opts')['isDesktop'] == false) {
+				return;
+			} else {
+				galleryOptions.isDesktop = false;
+				galleryOptions.fx = 'scrollHorz';
+				/*if (isMobile()) {
+					galleryOptions.captionFxSel = '> .captionWrapper > *';
+				} else {
+					galleryOptions.captionFxSel = undefined;
+				}*/
+				imageGallery.find('> div.controls .prev > span').html('&#x25c5;');
+				imageGallery.find('> div.controls .next > span').html('&#x25bb;');
+			}
+		}
+		
+		// Destroy jCycle and re-init with updated options
+		imageGallery.cycle('destroy').cycle(galleryOptions);
+	}
+
+	/* avoid page jump on init */
+	imageGallery.on('cycle-post-initialize', function(event, optionHash) {
+		setTimeout(function() {
+			imageGallery.parent().css('height', 'auto').css('visibility', 'visible'); 
+		}, 500);
+	});
+
+	/* Re-initiate slideshow with a throttled resize event */
+	var reinitTimer;
+	$(window).resize(function() {
+		clearTimeout(reinitTimer);
+		reinitTimer = setTimeout(reinit_cycle, 200);
+	});
+	reinit_cycle();
+	
+});
+</script>
+<div class="imageGallery combined" role="link">
+	<div class="imageGalleryWrapper">
+		<a href="http://www.nuigalway.ie/sceimteanga" tabindex="-1" aria-label="Webpage about Sc&eacute;im Teanga 2018-2021" class="item" data-cycle-title="Sc&eacute;im Teanga 2018-2021" data-cycle-description="Sheol an Ollscoil sc&eacute;im nua teanga a dh&eacute;anann freastal n&iacute;os fearr agus n&iacute;os leithne ar phobal Gaeilge na hOllscoile" data-cycle-content="<p>L&eacute;igh tuilleadh</p>" data-cycle-url="http://www.nuigalway.ie/sceimteanga">
+  <span class="image"><img src="/ollscoilnagaillimhe/homepageheroimages/hero-1.jpg" width="1600" height="680" alt="Sheol an Ollscoil scéim nua teanga a dhéanann freastal níos fearr agus níos leithne ar phobal Gaeilge na hOllscoile" /></span>
+</a><a href="http://www.nuigalway.ie/gaeilgebheo" tabindex="-1" aria-label="Webpage about An Ghaeilge Bheo" class="item" data-cycle-title="An Ghaeilge Bheo" data-cycle-description="T&aacute; an iliomad cl&aacute;r, cartlann, imeachta&iacute; agus togra&iacute; taighde ar an gcampas a chuireann le beocht na Gaeilge san Ollscoil." data-cycle-content="<p>F&eacute;ach Tuilleadh</p>" data-cycle-url="http://www.nuigalway.ie/gaeilgebheo">
+  <span class="image"><img src="/ollscoilnagaillimhe/homepageheroimages/180213-Gaeilge-Bheo-banner.jpg" width="1600" height="680" alt="Tá an iliomad clár, cartlann, imeachtaí agus tograí taighde ar an gcampas a chuireann le beocht na Gaeilge san Ollscoil." /></span>
+</a><a href="https://www.nuigalway.ie/about-us/news-and-events/news-archive/2018/november/irish-language-plan-for-galway-city.html" tabindex="-1" aria-label="Webpage about Plean Teanga na Gaillimhe" class="item" data-cycle-title="Plean Teanga na Gaillimhe" data-cycle-description="T&aacute; plean teanga &aacute; r&eacute;iteach do chathair na Gaillimhe ag an Dr John Walsh agus an Dr Dorothy N&iacute; Uig&iacute;n an t&iacute; seo." data-cycle-content="<p>Tuilleadh eolais</p>" data-cycle-url="https://www.nuigalway.ie/about-us/news-and-events/news-archive/2018/november/irish-language-plan-for-galway-city.html">
+  <span class="image"><img src="/ollscoilnagaillimhe/homepageheroimages/190111-Galway-city-people-1600-x-680.jpg" width="1600" height="680" alt="Tá plean teanga á réiteach do chathair na Gaillimhe ag an Dr John Walsh agus an Dr Dorothy Ní Uigín an tí seo." /></span>
+</a><a href="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2018/june/an-tuachtaran-o-huiginn-le-leacht-a-thabhairt-ag-siompoisiam-oe-gaillimh-ar-an-ngaeilge.html" tabindex="-1" aria-label="Webpage about Siomp&oacute;isiam Faoi Chonradh na Gaeilge" class="item" data-cycle-title="Siomp&oacute;isiam Faoi Chonradh na Gaeilge" data-cycle-description="Is &eacute; Uachtar&aacute;n na h&Eacute;ireann, Miche&aacute;l D. &Oacute; hUig&iacute;nn a thabharfaidh an pr&iacute;omhaitheasc ag siomp&oacute;isiam faoi Chonradh na Gaeilge" data-cycle-content="<p>L&eacute;igh Tuilleadh</p>" data-cycle-url="https://www.universityofgalway.ie/about-us/news-and-events/news-archive/2018/june/an-tuachtaran-o-huiginn-le-leacht-a-thabhairt-ag-siompoisiam-oe-gaillimh-ar-an-ngaeilge.html">
+  <span class="image"><img src="/ollscoilnagaillimhe/homepageheroimages/171003-Conradh-homepage.jpg" width="1600" height="680" alt="Is é Uachtarán na hÉireann, Micheál D. Ó hUigínn a thabharfaidh an príomhaitheasc ag siompóisiam faoi Chonradh na Gaeilge" /></span>
+</a><a href="http://www.nuigalway.ie/vision2020/" tabindex="-1" aria-label="Webpage about Ag f&eacute;achaint ar an todhcha&iacute;" class="item" data-cycle-title="Ag f&eacute;achaint ar an todhcha&iacute;" data-cycle-description="Is &eacute; F&iacute;s 2020 &aacute;r bPlean Strait&eacute;iseach nua do na blianta amach romhainn. Cuims&iacute;onn s&eacute; spriocanna thar r&eacute;imse gn&iacute;omha&iacute;ochta&iacute;." data-cycle-content="<p>F&eacute;ach &aacute;r bhF&iacute;s</p>" data-cycle-url="http://www.nuigalway.ie/vision2020/">
+  <span class="image"><img src="/ollscoilnagaillimhe/homepageheroimages/Vision-2020-web-test-2.jpg" width="1600" height="680" alt="Is é Fís 2020 ár bPlean Straitéiseach nua do na blianta amach romhainn. Cuimsíonn sé spriocanna thar réimse gníomhaíochtaí." /></span>
+</a>
+		<div class="controls">
+			<a href="#" title="previous" aria-label="Previous Banner Link" class="prev"><span>&#xf500;</span></a>
+			<div class="pagination"></div>
+			<a href="#" title="next" aria-label="Next Banner Link" class="next"><span>&#xf501;</span></a>
+		</div>
+	</div>
+	<div class="caption"></div>
+</div><span name="d.en.75488"></span>
+<div class="column-content richTextBlock">
+<h1>OLLSCOIL NA GAILLIMHE</h1>
+<p><span lang="GA">T&aacute; Ollscoil na h&Eacute;ireann, Gaillimh &aacute;irithe ar cheann den 2% is airde rang&uacute; i measc ollscoileanna an domhain. T&aacute;imid ann le beagnach dh&aacute; ch&eacute;ad bliain agus gaisc&iacute; go leor d&eacute;anta againn san achar sin. T&aacute;imid in &aacute;it dhra&iacute;ocht&uacute;il anseo in iarthar na h&Eacute;ireann agus dreach t&iacute;re agus cult&uacute;r faoi leith ar leic an dorais againn.&nbsp; T&aacute; ceangal againn le comhph&aacute;irtithe thart timpeall na cruinne de thoradh an ghr&eacute;as&aacute;in dhomhanda at&aacute; cruthaithe againn. T&aacute; an todhcha&iacute; &aacute; m&uacute;nl&uacute; ag &aacute;r lucht taighde. T&aacute; a bhfuil i nd&aacute;n d&oacute;ibh f&eacute;in &aacute; m&uacute;nl&uacute; ag &aacute;r mic l&eacute;inn.</span></p>
+</div><div class="contentBody">
+		
+<script type="text/javascript">
+$(document).ready(function() {
+	
+	var imageGallery = $('div.imageGallery.features .imageGalleryWrapper');
+	
+	function reinit_cycle() {
+		if (isMobile()) {
+			if(imageGallery.data('cycle.opts')) {
+				return;
+			} else {
+				imageGallery.cycle({
+					speed: 400,
+					timeout: 0,
+					allowWrap: true,
+					fx: 'scrollHorz',
+					slides: 'div.item',
+					prev: '> div.controls a.prev',
+					next: '> div.controls a.next',
+					swipe: true,
+					pager: '> div.controls div.pagination',
+					pagerActiveClass: 'active',
+					pagerTemplate: '<a aria-label="Icon Link"><span>&bull;</span></a>',
+					log: false
+				});
+			}
+		}
+		else {
+			if(imageGallery.data('cycle.opts'))
+				imageGallery.cycle('destroy');
+		}
+	}
+	
+	/* Re-initiate slideshow on mobile with a throttled resize event */
+	var reinitTimer;
+	$(window).resize(function() {
+		clearTimeout(reinitTimer);
+		reinitTimer = setTimeout(reinit_cycle, 200);
+	});
+	reinit_cycle();
+	
+});
+</script>
+<div class="imageGallery plain features">
+	<div class="imageGalleryWrapper">
+
+		<div class="item col1">
+			<div class="itemWrapper">
+				<h3 aria-hidden="true" class="lcase"><a tabindex="-1" aria-hidden="true" href=""><span>Glac p&aacute;irt sa Ghr&eacute;as&aacute;n Domhanda</span></a></h3>
+				<a href=""><span class="image"><span class="imageWrapper">
+					<img src="/ollscoilnagaillimhe/homepage-symbol1.png" alt="Glac p&aacute;irt sa Ghr&eacute;as&aacute;n Domhanda">
+					<img src="/ollscoilnagaillimhe/homepage-symbol1-hover.png" alt="" class="hover">
+				</span></span></a>
+			</div>
+		</div>
+
+		<div class="item col2">
+			<div class="itemWrapper">
+				<h3 aria-hidden="true" class="lcase"><a tabindex="-1" aria-hidden="true" href="/opendays/"><span>Tabhair Cuairt ar an gCampas</span></a></h3>
+				<a href="/opendays/"><span class="image"><span class="imageWrapper">
+					<img src="/ollscoilnagaillimhe/building-icon-2.png" alt="Tabhair Cuairt ar an gCampas">
+					<img src="/ollscoilnagaillimhe/hover_building-2.png" alt="" class="hover">
+				</span></span></a>
+			</div>
+		</div>
+
+		<div class="item col3">
+			<div class="itemWrapper">
+				<h3 aria-hidden="true" class="lcase"><a tabindex="-1" aria-hidden="true" href="/oegaillimh/an-ghaeilge-san-ollscoil/"><span>An Ghaeilge san Ollscoil</span></a></h3>
+				<a href="/oegaillimh/an-ghaeilge-san-ollscoil/"><span class="image"><span class="imageWrapper">
+					<img src="/ollscoilnagaillimhe/homepage-G-symbol.png" alt="An Ghaeilge san Ollscoil">
+					<img src="/ollscoilnagaillimhe/homepage-G-symbol-hover.png" alt="" class="hover">
+				</span></span></a>
+			</div>
+		</div>
+
+		<div class="item col4">
+			<div class="itemWrapper">
+				<h3 aria-hidden="true" class="lcase"><a tabindex="-1" aria-hidden="true" href="/courses/research-postgraduate-programmes/"><span>Cl&aacute;ir PhD &amp; Thaighde</span></a></h3>
+				<a href="/courses/research-postgraduate-programmes/"><span class="image"><span class="imageWrapper">
+					<img src="/ollscoilnagaillimhe/homepage-symbol4.png" alt="Cl&aacute;ir PhD &amp; Thaighde">
+					<img src="/ollscoilnagaillimhe/homepage-symbol4-hover.png" alt="" class="hover">
+				</span></span></a>
+			</div>
+		</div>
+
+		<div class="controls whitebg">
+			<a href="#" title="previous" class="prev" aria-label="Previous icon link"><span>◅</span></a>
+			<div class="pagination"></div>
+			<a href="#" title="next" class="next" aria-label="Next icon link"><span>▻</span></a>
+		</div>
+
+	</div>
+	<div class="bottom"></div>
+</div>
+
+</div><script type="text/javascript">
+
+	$(function() {
+
+		var imageLoaderCounter = 0;
+		var imageContainers = $("div.imageGallery.overlap div.item.image");
+
+		/**
+		 * Adjust parallax background images (called on windows resize)
+		 */
+		function adjustImageDimensions() {
+			imageContainers.each(function() {
+				// just make sure it occupies 70% of the original image height,
+				// and 600px or 80% of the window height at maximum
+				var img = $(this).find("img");
+				var imageHeight = Math.round(img.height() * 0.7); 
+				var windowHeight = Math.round($(window).height() * 0.8); 
+				$(this).css("height", Math.min(imageHeight, windowHeight, 600));
+			});
+			
+			handleScrolling();
+		}
+
+		/**
+		 * If all desktop images are loaded, implement the parallax effect
+		 */
+		function imageLoadedDesktop() {
+			imageLoaderCounter--;
+
+			// all images loaded
+			if (imageLoaderCounter == 0) {
+				imageContainers.each(function() {
+					var container = $(this);
+					var img = container.find("img");
+					var src = img.attr("src");
+					img.css("visibility", "hidden");
+					container.css({
+						"display": "block",
+						"background-image": "url('" + src + "')",
+						"background-attachment": "fixed",
+						"background-position": "center 0px",
+						"background-size": "cover"
+					});
+					if( isHandheld() ) {
+						container.css({
+							"background-attachment": "initial",
+							"background-position": "center center"
+						});
+					}
+				});
+
+				adjustImageDimensions();
+			}
+		}
+		
+		/**
+		 * On mobile, remove any CSS for the parallax effect
+		 */
+		function imageLoadedMobile() {
+			imageContainers.each(function() {
+				var container = $(this);
+				container.attr("style", "");
+				container.find("img").css("visibility", "visible");
+			});
+		}
+
+		/**
+		 * Load larger images 
+		 */
+		function imageLoader(mode) {
+			imageContainers.each(function() {
+				var container = $(this);
+				var newImage = container.find("img").attr("data-"+mode+"-src");
+				var img = document.createElement('img');
+				if(mode == 'desktop') {
+					img.onload = imageLoadedDesktop;
+					imageLoaderCounter++;
+				} else {
+					img.onload = imageLoadedMobile;
+				}
+				img.src = newImage;
+				container.find("span.imageWrapper img").prop('src', newImage);
+			});
+		}
+
+		/**
+		 * Scrolling - animate the background image
+		 */
+		function handleScrolling() {
+			if( isHandheld() ) return;
+			
+			var win = $(this);
+			var scrollTop = win.scrollTop();
+			var viewportHeight = win.height();
+
+			imageContainers.each(function() {
+				var container = $(this);
+				var containerHeight = container.height();
+				var imageHeight = container.find("img").height();
+				var top = container.position().top;
+				var min = top - viewportHeight;
+				var max = top + containerHeight;
+				var scrollingFactor = imageHeight - containerHeight;
+				if (scrollTop >= min && scrollTop <= max) {
+					perc = 0.5 - (scrollTop - min) / (max - min);
+					container.css("background-position", "center " + Math.round(scrollingFactor * perc) + "px");
+				}
+			});
+		}
+		
+		function reinit_overlap() {
+			$(window).off('scroll', handleScrolling);
+			if (!isMobile()) {
+				// load larger images on desktop
+				imageLoader('desktop');
+
+				// animate the background container background a little bit
+				handleScrolling();
+				$(window).on('scroll', handleScrolling);
+			} else {
+				imageLoader('mobile');
+			}
+		}
+		
+		/* Re-initiate gallery with a throttled resize event. */
+		var reinitTimer;
+		$(window).resize(function() {
+			clearTimeout(reinitTimer);
+			reinitTimer = setTimeout(reinit_overlap, 100);
+		});
+		reinit_overlap();
+
+	});
+
+</script>
+
+<div class="imageGallery overlap">
+	<div class="imageGalleryWrapper">
+
+		<div class="item image">
+			<div class="itemWrapper">
+				<span class="image"><span class="imageWrapper">
+					<img data-desktop-src="/ollscoilnagaillimhe/parallax-1.jpg" data-mobile-src="/ollscoilnagaillimhe/parallax-1-mobile.jpg" src="/ollscoilnagaillimhe/parallax-1-mobile.jpg" alt="">
+				</span></span>
+			</div>
+		</div>
+
+		<div class="item article">
+			<div class="itemWrapper">
+
+				<article>
+
+					<figure>
+						<span class="image"><span class="imageWrapper"><img src="/ollscoilnagaillimhe/research-img.jpg" alt=""></span></span>
+					</figure>
+
+					<div class="text">
+						<h3 class="contentTitle"><span>TAIGHDE</span></h3>
+						<p>
+							<p><p class="FreeForm">Tugann &aacute;r dtaighdeoir&iacute; aghaidh ar chuid de na d&uacute;shl&aacute;in is pr&aacute;inn&iacute; i saol an lae inniu. T&aacute;imid ann le freastal ar riachtanais an gheilleagair, na socha&iacute; agus an chult&uacute;ir, anois agus amach anseo.&nbsp;<a href="http://www.nuigalway.ie/our-research/">L&eacute;igh leat</a>.</p></p>
+						</p>
+					</div>
+
+				</article>
+
+			</div>
+		</div>
+
+
+		<div class="item image">
+			<div class="itemWrapper">
+				<span class="image"><span class="imageWrapper">
+					<img data-desktop-src="/ollscoilnagaillimhe/parallax-2.jpg" src="/ollscoilnagaillimhe/parallax-2.jpg" alt="">
+				</span></span>
+			</div>
+		</div>
+
+		<div class="item article">
+			<div class="itemWrapper">
+
+				<article>
+
+					<div class="text">
+						<h3 class="contentTitle"><span>SCOL&Aacute;IREACHTA&Iacute;</span></h3>
+						<p>
+							<p class="FreeForm">T&aacute; &aacute;r gcuid <a href="http://www.nuigalway.ie/postgraduate/scholarships">Scol&aacute;ireachta&iacute; Iarch&eacute;ime</a> leagtha amach chun luach saothair a thabhairt do mhic l&eacute;inn ar &eacute;irigh thar cionn leo ina l&eacute;ann foch&eacute;ime.&nbsp;<a href="http://www.nuigalway.ie/postgraduate/scholarships">L&eacute;igh leat</a>.</p>
+<p><span>&nbsp;</span></p>
+						</p>
+					</div>
+
+					<figure>
+						<span class="image"><span class="imageWrapper"><img src="/ollscoilnagaillimhe/students-img.jpg" alt=""></span></span>
+					</figure>
+
+				</article>
+
+			</div>
+		</div>
+
+
+	</div>
+</div></div>
+		</div>
+		
+		<div id="pageRightColumn">
+			<div id="pageRightColumnWrapper">
+				<!-- sidebar nav object html/sidebar-->
+			</div>
+		</div>
+
+ <!-- Downloads -->
+<!--gaeilge-footer-->
+		<div class="bottom"><span></span></div>
+
+	</div>
+
+</div>
+
+
+</div>
+
+
+
+</div>
+<!-- end of: node_id_1034 (templates/node/page/default.html) -->
+			</div>
+		</div>
+
+<!-- gaeilge-cookie-manager -->
+<div class="cookie-info" style="display:none;">
+        <div class="cookie-text cookie-wrapper">
+            <div id="closebox"><a href="javascript:toggleCookieInfo();">&times;</a></div>
+            <h3>Bainisti&uacute; Fian&aacute;n</h3>
+<form action="#" method="post">
+<strong>Ceadaigh do O&Eacute; Gaillimh Fian&aacute;in a &Uacute;s&aacute;id le haghaidh:</strong>
+<div class="centered">
+<span class="nowrap"><label for="func">Feidhmi&uacute;lacht:</label>&nbsp;<input type="checkbox" id="func" name="func">&nbsp;&nbsp;</span>
+<span class="nowrap"><label for="pref">Do chuid roghanna:</label>&nbsp;<input type="checkbox" id="pref" name="pref">&nbsp;&nbsp;</span>
+<span class="nowrap"><label for="anal">Anail&iacute;s&iacute;ocht:</label>&nbsp;<input type="checkbox" id="anal" name="anal">&nbsp;&nbsp;</span>
+<span class="nowrap"><label for="ads">F&oacute;gra&iacute;:</label>&nbsp;<input type="checkbox" id="ads" name="ads"></span>
+<br><button type="button" class="green" id="consentSome">Ceadaigh a bhfuil Roghnaithe</button>
+<button type="button" class="bw" id="consentNone">N&aacute; ceadaigh ceann ar bith</button>
+<button class="ticked" id="consentAll" type="submit">Ceadaigh gach ceann</button>
+</div>
+</form>
+<p>T&aacute; <abbr title="Mion-t&eacute;acschomhaid, s&aacute;bh&aacute;ilte ar do ghl&eacute;as">fian&aacute;in</abbr> ag teast&aacute;il &oacute; roinnt gn&eacute;ithe  chun go n-oibreoidh siad i gceart. Ina theannta sin, ligeann fian&aacute;in d&uacute;inn (a) cuimhneamh ar do chuid roghanna, (b) staitistic&iacute; &uacute;s&aacute;ide anaithnide a bhaili&uacute;, agus (c) aon fh&oacute;gra&iacute; ar l&iacute;ne le haghaidh nuigalway.ie a bhainisti&uacute;.
+</p>
+<p>N&iacute; st&oacute;r&aacute;iltear aon sonra&iacute; pearsanta ar na fian&aacute;in seo ach, faoi dhl&iacute; AE, caithfimid an cheist seo a chur ort gach 6 mh&iacute;. Chun n&iacute;os m&oacute; a fhoghlaim faoin &Uacute;s&aacute;id a bhainimid as fian&aacute;in, f&eacute;ach ar &aacute;r <a href="//www.nuigalway.ie/footer-links/privacy.html#cookies">bPolasa&iacute; Pr&iacute;obh&aacute;ideachais</a>.</p>
+        </div>
+    </div>
+<!-- end of cookie manager --> <!-- cookies -->
+
+		<div id="footer" role="contentinfo" aria-label="footer">
+			<div id="footerWrapper">
+
+				<div id="footerInfo">
+	<div id="footerInfoWrapper" class="columnLayout">
+
+		<div class="columnOne ofThree">
+			<div class="columnWrapper">
+
+				<h3><span>EOLAS FAOI OLLSCOIL NA GAILLIMHE</span></h3>
+
+				<p>
+                  Bunaíodh i 1845 muid, agus tá mic léinn á spreagadh againn le <span id="uniAge">175</span> bliain.
+Tá aitheantas idirnáisiúnta bainte amach ag Ollscoil na hÉireann, Gaillimh mar ollscoil atá á treorú ag an taighde agus rún daingean aici teagasc den chéad scoth a chur ar fáil.
+
+				</p>
+
+				<p class="fundsLogoWrapper">
+					<img src="//www.nuigalway.ie/cdn/images/eu_funds_badge.png" alt="Harp Logo"/>
+				</p>
+
+			</div>
+		</div>
+<script>
+let today=new Date(); $('span#uniAge').html(today.getFullYear() - 1845);
+</script>
+		<div class="columnTwo ofThree">
+			<div class="columnWrapper">
+
+				<h3><span>TEAGMHÁil</span></h3>
+
+				<p>
+					Ollscoil na Gaillimhe,<br/>
+  Bóthar na hOllscoile,<br/>
+  Gaillimh,<br/>
+  Éire<br/>
+H91 TK33<br/>
+  T. +353 91 5244
+				</p>
+
+				<p class="contactIcons">
+					<a class="pin" href="//www.nuigalway.ie/about-us/contact-us/where-to-find-us.html">AN OLLSCOIL AR AN MAPA</a>
+					<a class="email" href="//www.nuigalway.ie/about-us/contact-us/">SEOL RÍOMHPHOST CHUGAINN</a>
+				</p>
+
+			</div>
+		</div>
+			
+		<div class="columnThree ofThree">
+			<div class="columnWrapper">
+
+				<h3><span>Nasc</span></h3>
+
+				<p class="socialIcons">
+					<a class="twitter" href="https://twitter.com/uniofgalway" aria-label="Twitter Link" target="_blank"><span>Twitter</span></a>
+                                        <a class="instagram" href="https://www.instagram.com/universityofgalway/" aria-label="Instagram Link" target="_blank"><span>Instagram</span></a>
+					<a class="facebook" href=" https://www.facebook.com/universityofgalway" aria-label="Facebook Link" target="_blank"><span>Facebook</span></a>
+					<a class="youtube" href="https://www.youtube.com/user/universityofgalway" aria-label="YouTube Link" target="_blank"><span>YouTube</span></a>
+					<a class="linkedin" href="https://www.linkedin.com/school/universityofgalway" aria-label="LinkedIn Link" target="_blank"><span>LinkedIn</span></a>
+					<a class="rss" href="//www.nuigalway.ie/rss/" aria-label="RSS Link"><span>RSS</span></a>
+				</p>
+
+				<p class="minimap">
+					<a href="//www.nuigalway.ie/about-us/contact-us/where-to-find-us.html"><img src="//www.nuigalway.ie/cdn/images/footer_map.png" alt="Galway Mini Map"/></a>
+				</p>
+
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+				<div id="copyright">
+					<div id="copyrightWrapper">
+						<p>&copy; <span id="copyrightYear">2022</span> Ollscoil na Gaillimhe. <span class="rightclick">Gach ceart ar cosaint.<span class="hidden"> <!--#include virtual="/server_number.inc" --></span></span><br>Is carthanas cláraithe é Ollscoil na Gaillimhe. RCN 20002107</p>
+					</div>
+				</div>
+<script>
+var todaysDate = new Date; 
+$('#copyrightYear').html(todaysDate.getFullYear());
+</script>
+				<div id="footerNavigation">
+					<div id="footerNavigationWrapper">
+						
+<ul>
+<li class='first node_id_26'>
+		<a href="//www.nuigalway.ie/footer-links/disclaimer.html" class="first node_id_26"><span>CLÁSAL SÉANTA</span></a>
+	
+	
+	
+	
+</li>
+<li class='middle node_id_1031'>
+		<a href="//www.nuigalway.ie/footer-links/privacy.html" class="middle node_id_1031"><span>PRÍOBHÁIDEACHT &amp; FIANÁIN</span></a>
+	
+	
+	
+	
+</li>
+<li class='middle node_id_1037'>
+		<a href="//www.nuigalway.ie/footer-links/copyright.html" class="middle node_id_1037"><span>CÓIPCHEART</span></a>
+	
+	
+	
+	
+</li>
+<li class='middle node_id_20'>
+		<a href="//www.nuigalway.ie/about-us/contact-us/" class="middle node_id_20"><span>TEAGMHÁIL & FIOSRUITHE</span></a>
+	
+	
+	
+	
+</li>
+<li class='last node_id_1026'>
+		<a href="//www.nuigalway.ie/footer-links/accessibility.html" class="middle node_id_1026"><span>INROCHTAINEACHT</span></a>
+	
+	
+	
+	
+</li>
+
+</ul>
+
+
+					</div>
+				</div>						
+
+			</div>
+		</div>
+
+		<div class="bottom"><span></span></div>
+
+	</div>
+</div>
+
+<!--Start google analytics code-->
+<script type="text/javascript">
+if (consentAnalytics) {
+                //enable GA
+                var gaJsHost = (("https:" == document.location.protocol) ? "//ssl." : "//www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/analytics.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<script>
+//google analytics
+if (consentAnalytics) {
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('set', 'anonymizeIp', true);
+ga('create', 'UA-859162-1', 'auto'); 
+ga('send', 'pageview');
+
+//Google tag manager
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TTT667Z');
+}
+</script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe title="site analytics" aria-hidden="true" src=https://www.googletagmanager.com/ns.html?id=GTM-TTT667Z
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--End google analytics code--> <!-- GA -->
+
+</body>
+</html>
+<!--end-footer--> <!-- Footer -->
